@@ -1,4 +1,4 @@
-[
+{"books":[
   {
     "id": 258027,
     "has_fulltext": true,
@@ -7,7 +7,8 @@
     "author_name": [
       "J. R. R. Tolkien"
     ],
-    "first_publish_year": 1954
+    "first_publish_year": 1954,
+    "price": 15.99
   },
   {
     "id": 140081,
@@ -17,7 +18,8 @@
     "author_name": [
       "Douglas Adams"
     ],
-    "first_publish_year": 1979
+    "first_publish_year": 1979,
+    "price": 20.99
   },
   {
     "id": 90150,
@@ -27,7 +29,8 @@
     "author_name": [
       "Gabriel García Márquez"
     ],
-    "first_publish_year": 1967
+    "first_publish_year": 1967,
+    "price": 22.99
   },
   {
     "id": 50012,
@@ -37,6 +40,8 @@
     "author_name": [
       "Jane Austen"
     ],
-    "first_publish_year": 1813
+    "first_publish_year": 1813,
+    "price": 12.99
   }
 ]
+}
